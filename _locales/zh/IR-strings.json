@@ -1,7 +1,7 @@
 {
     "IR|block": "红外线",
     "IR.setIR_pin|block": "设定红外线发射引脚: %myPin",
-    "IR.setREC_pin|block": "设定红外线接收发射引脚: %myPin",
+    "IR.setREC_pin|block": "设定红外线接收引脚: %myPin",
     "IR.sendMyMessage1|block": "发射红外信号: %msg| ,发射次数： %times| 次, 信号编码:%myType",
     "IR.sendMyMessage2|block": "发射红外信号: %msg| ,发射次数： %times| 次, 信号编码:%myType",
     "IR.onReceivedIR|block": "当接收到红外线信号时",
