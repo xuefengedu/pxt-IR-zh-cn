@@ -5,6 +5,8 @@
 
 **The author is https://github.com/lioujj, I just translate it to Chinese Simplified version for teachers, thanks.**
 
+# 本扩展包作者是台湾劉正吉老师，我翻译成简体中文版，主要是未来方便大陆老师，感谢劉正吉老师写的这个很赞的扩展包！
+
 # InfraRed 
 
 這是專為micro:bit提供的紅外線積木\
